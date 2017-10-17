@@ -9,6 +9,9 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
+    "axios": "^0.16.2",
+    "string-natural-compare": "^2.0.2",
+    "tachyons-sass": "^4.8.1",
     "vue": "^2.4.4"
   },
   "devDependencies": {
